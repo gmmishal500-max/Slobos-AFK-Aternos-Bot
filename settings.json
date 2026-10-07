@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AEXKILLER-D258.aternos.me:56930",
-    "port": 56930,
+    "ip": "AEXKILLER.aternos.me",
+    "port": 21150,
     "version": "",
     "try-creative": false
   },
